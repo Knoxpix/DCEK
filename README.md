@@ -1,0 +1,2 @@
+# DCEK
+Elasticsearch cluster Dockercompose
